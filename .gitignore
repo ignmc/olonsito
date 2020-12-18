@@ -252,5 +252,5 @@ dmypy.json
 
 botlog.log
 interpreter.out
-interpreter.c
+interpreter.cpp
 .pyenv
